@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.016" errors="0" skipped="0" tests="1" name="fr.esir.lsi2.tpmaven.AppTest">
+  <properties>
+    <property name="KINECTSDK10_DIR" value="C:\Program Files\Microsoft SDKs\Kinect\v1.7\"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\BADBOUM"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jre7"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:9900/"/>
+    <property name="VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre7\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="USERDOMAIN" value="BADBOUM"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.7.0_09"/>
+    <property name="JOB_NAME" value="tpmaven"/>
+    <property name="COMPUTERNAME" value="BADBOUM"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="MARION"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 23 Stepping 10, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\MARION\AppData\Local"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="2"/>
+    <property name="BUILD_TAG" value="jenkins-tpmaven-4"/>
+    <property name="KINECT_TOOLKIT_DIR" value="C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven C:\Users\MARION\.jenkins\war\WEB-INF\lib\remoting-2.39.jar C:\Users\MARION\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.4.jar C:\Users\MARION\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.4.jar 7552"/>
+    <property name="HUDSON_URL" value="http://localhost:9900/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="aab45e3a9c52492e"/>
+    <property name="=D:" value="D:\Projet ESIR2\tpmaven"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\PC Connectivity Solution\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Windows Live\Shared;C:\wamp\bin\php\php5.3.8;C:\Program Files (x86)\Pinnacle\Shared Files\;C:\MinGW\bin; D:\eclipse c++\MinGW\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Users\MARION\AppData\Local\Smartbar\Application\;C:\Users\MARION\AppData\Local\Smartbar\Application\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\TortoiseSVN\bin;%M2%;D:\apache-maven-3.2.1\bin"/>
+    <property name="ILMDIR" value="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\"/>
+    <property name="java.io.tmpdir" value="C:\Users\MARION\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\MARION\AppData\Roaming"/>
+    <property name="user.language" value="fr"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:9900/job/tpmaven/4/"/>
+    <property name="M2_HOME" value="C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven"/>
+    <property name="=C:" value="C:\"/>
+    <property name="ERROR_CODE" value="1"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="aab45e3a9c52492e"/>
+    <property name="FTSDK_DIR" value="C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\"/>
+    <property name="MAVEN_HOME" value="C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\MARION\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.4.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="HOMEPATH" value="\Users\MARION"/>
+    <property name="ADSK_3DSMAX_x64_2014" value="C:\Program Files\Autodesk\3ds Max 2014\"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="maven3.interceptor" value="C:\Users\MARION\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.4.jar"/>
+    <property name="java.library.path" value="C:\Windows\system32;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\PC Connectivity Solution\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Windows Live\Shared;C:\wamp\bin\php\php5.3.8;C:\Program Files (x86)\Pinnacle\Shared Files\;C:\MinGW\bin; D:\eclipse c++\MinGW\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Users\MARION\AppData\Local\Smartbar\Application\;C:\Users\MARION\AppData\Local\Smartbar\Application\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\TortoiseSVN\bin;%M2%;D:\apache-maven-3.2.1\bin;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="VBOX_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="POM_GROUPID" value="fr.esir.lsi2"/>
+    <property name="POM_ARTIFACTID" value="tpmaven"/>
+    <property name="PROJ_LIB" value="C:\Program Files\MapWindow\PROJ_NAD"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="JOB_URL" value="http://localhost:9900/job/tpmaven/"/>
+    <property name="GDAL_DATA" value="C:\Program Files\MapWindow\gdal_data"/>
+    <property name="net.sourceforge.cobertura.datafile" value="D:\Projet ESIR2\tpmaven\target\cobertura\cobertura.ser"/>
+    <property name="JENKINS_HOME" value="C:\Users\MARION\.jenkins"/>
+    <property name="BUILD_ID" value="2014-04-22_15-46-11"/>
+    <property name="TEMP" value="C:\Users\MARION\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre7\bin"/>
+    <property name="M2" value="D:\apache-maven-3.2.1\bin"/>
+    <property name="ANDROID_NDK_PATH" value="C:\Program Files\Android\ndk\android-ndk-r8d"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="170a"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="configsetroot" value="C:\Windows\ConfigSetRoot"/>
+    <property name="HUDSON_HOME" value="C:\Users\MARION\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven/bin"/>
+    <property name="GTK_BASEPATH" value="C:\Program Files (x86)\GtkSharp\2.12\"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.7.0"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\MARION"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\MARION"/>
+    <property name="USERNAME" value="MARION"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="project.build.outputDirectory" value="D:\Projet ESIR2\tpmaven\target\generated-classes\cobertura"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="D:\Projet ESIR2\tpmaven"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\MARION\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="23.5-b02"/>
+    <property name="java.class.path" value="C:\Users\MARION\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.4.jar;C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven\boot\plexus-classworlds-2.5.1.jar;C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="MAVEN_OPTS" value="-Xms256m -Xmx512m"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\MARION\.jenkins\workspace\tpmaven"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="LANG" value="fr"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.7.0_09-b05"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes"/>
+    <property name="ILBDIR" value="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\"/>
+    <property name="=ExitCode" value="00000001"/>
+    <property name="user.country" value="FR"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Users\MARION\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\tpmaven"/>
+    <property name="CM2014DIR" value="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\"/>
+    <property name="HOME" value="C:\Users\MARION"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="tpmaven"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase time="0.016" classname="fr.esir.lsi2.tpmaven.AppTest" name="testApp"/>
+</testsuite>
